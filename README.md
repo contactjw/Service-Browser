@@ -4,7 +4,7 @@ This is a service browser that lets the user choose between three small programs
 (Runs in Java 14, these commands are for MacOS users)
 STEPS TO RUN THE PROGRAM:
 
-1.) Extract all of the files to a new project directory in whichever IDE you prefer.
+1.) Extract all of the files to a new project directory.
 
 2.) Open terminal and navigate to the src directory of the project and issue the command: % javac *.java\
     This command will compile all of the .java files into .class files which are runnable.
